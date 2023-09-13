@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  
 <body>
 <h1>MageAngela Website</h1>
-<a href="https://space.bilibili.com/2913798">mageangela.cn</a>
+<a href="mageangela.cn">Go to mageangela.cn</a>
 <p></p>Hello, I'm MageAngela, a tech blogger on Bilibili.com
 <p></p>You can find me on the bilibili.com, or 1069632966@qq.com
 <p></p>Really appreciate that you found my website.
