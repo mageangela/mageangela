@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+<head> 
+<meta charset="utf-8"> 
+<titel>MageAngela Website</titel>
+</head>
+ 
+<body>
 <h1>MageAngela Website</h1>
 <p>Hello, I'm Mage Angela and this site is only used as an intermediate redirect.</p>
 <p>You can find me on the bilibili website, or add my QQ</p>
@@ -28,3 +35,7 @@ Here are some ideas to get you started:
   <li> QQ:1069632966 </li>
 </ul>
 <img src="angela256.jpg" alt="Logo">
+
+</body>
+ 
+</html>
