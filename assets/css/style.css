@@ -10,14 +10,6 @@ body{
 #divbl{
 	text-align: center;
 }
-#divl, #divt{
-  display: inline-block;
-  text-align: center;
-}
-#divt span{
-	display: table-cell;
-	vertical-align: middle;
-}
 .overlay{
   position: absolute;
   top: 0;
