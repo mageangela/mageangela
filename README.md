@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title>MageAngela Website</title>
 </head>
  
 <body>
