@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p></p>Hello, I'm MageAngela, a tech blogger on Bilibili.com
 <p></p>You can find me on the bilibili.com, or 1069632966@qq.com
 <p></p>Really appreciate that you found my website.
-
+<hr>
 <p>你好，我是Mage安琪拉，这个网站仅仅作为中间跳转使用。</p>
 <p>你可以在bilibili网站找到我，或者添加我的QQ。</p>
 <p>真的很感谢你能找到我的网站。</p>
