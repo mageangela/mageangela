@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<titel>MageAngela Website</titel>
+<h1>MageAngela Website</h1>
 <p>Hello, I'm Mage Angela and this site is only used as an intermediate redirect.</p>
 <p>You can find me on the bilibili website, or add my QQ</p>
 <p>Really appreciate that you found my website.</p>
