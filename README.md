@@ -24,9 +24,9 @@ Here are some ideas to get you started:
  
 <body>
 <h1>MageAngela Website</h1>
-<p>Hello, I'm Mage Angela and this site is only used as an intermediate redirect.</p>
-<p>You can find me on the bilibili website, or add my QQ</p>
-<p>Really appreciate that you found my website.</p>
+<p></p>Hello, I'm MageAngela, a tech blogger on Bilibili.com
+<p></p>You can find me on the bilibili.com, or 1069632966@qq.com
+<p></p>Really appreciate that you found my website.
 
 <p>你好，我是Mage安琪拉，这个网站仅仅作为中间跳转使用。</p>
 <p>你可以在bilibili网站找到我，或者添加我的QQ。</p>
