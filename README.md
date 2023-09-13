@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!DOCTYPE html>
 <html>
 <head> 
 <meta charset="utf-8"> 
-<titel>MageAngela Website</titel>
+<title>MageAngela Website</title>
 </head>
  
 <body>
