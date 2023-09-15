@@ -24,6 +24,7 @@ Here are some ideas to get you started:
  
 <body>
 <h1>MageAngela Website</h1>
+ <img src="assets/img/wow_logo.png" alt="Logo">
 <a href="mageangela.cn">Go to mageangela.cn</a>
 <p></p>Hello, I'm MageAngela, a tech blogger on Bilibili.com
 <p></p>You can find me on the bilibili.com, or 1069632966@qq.com
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
   <li> <a href="https://space.bilibili.com/2913798">Bilibili</a> </li>
   <li> QQ:1069632966 </li>
 </ul>
-<img src="assets/img/wow_logo.png" alt="Logo">
+
 
 </body>
  
