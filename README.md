@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <li> <a href="https://space.bilibili.com/2913798">Bilibili</a> </li>
   <li> QQ:1069632966 </li>
 </ul>
-<img src="angela256.ico" alt="Logo">
+<img src="favicon.ico" alt="Logo">
 
 </body>
  
